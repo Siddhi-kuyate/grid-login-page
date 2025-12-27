@@ -1,0 +1,61 @@
+*{
+    /* background-image: url(./img/for1.jpg);
+    background-size: cover; */
+    background-color: rgb(113, 200, 113);
+      display: flex;
+     justify-content: center;
+    align-items: center;
+}   
+
+.for2{
+
+         background-color: rgb(223, 244, 223); 
+       
+         width: 400px;
+         height: 500px;
+         border: 5px solid green;
+         flex-direction: column;   
+         margin-top: 70px;
+   
+}
+
+
+h1{
+    color:  rgb(113, 200, 113);
+    background-color:  rgb(223, 244, 223);
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+
+label{
+   color:  rgb(113, 200, 113);
+   background-color:  rgb(223, 244, 223);
+   margin-right: 250px;
+   text-transform: capitalize;
+
+}
+
+input{
+
+    width: 300px;
+    height: 30px;
+    color: green;
+     background-color: rgb(186, 234, 199);
+   border: none;
+   border-bottom: 3px solid green;
+   margin-bottom: 20px;
+    text-transform: capitalize; 
+   
+
+ 
+   
+}
+
+button{
+     color: white;
+     background-color: green;
+     width: 300px;
+     height: 30px;
+     text-transform: capitalize;
+     border: 3px solid  green;
+}
